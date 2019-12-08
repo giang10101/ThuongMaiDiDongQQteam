@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/navigation_Checkin"
+        android:icon="@drawable/checkin"
+        android:title="Checkin"/>
+
+
+    <item
+        android:id="@+id/navigation_DatXe"
+        android:icon="@drawable/datxe"
+        android:title="Đặt Xe"/>
+
+    <item
+        android:id="@+id/navigation_DatVe"
+        android:icon="@drawable/datve"
+        android:title="Đặt vé"/>
+
+    <item
+        android:id="@+id/navigation_KhamPha"
+        android:icon="@drawable/store"
+        android:title="Khám Phá"/>
+
+    <item
+        android:id="@+id/navigation_CaNhan"
+        android:icon="@drawable/canhan"
+        android:title="Cá Nhân"/>
+
+
+</menu>
